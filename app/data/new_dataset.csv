@@ -1,0 +1,66 @@
+AttackType,Severity,Target,Impact,Detected,ResponseTime,MitigationEffort,DataCompromised,FinancialLoss
+Phishing,Medium,Corporate,4.9,No,11.8,7.3,26.5,320000
+Phishing,High,Government,8.4,Yes,10.1,7.9,35.7,900000
+Malware,Medium,Healthcare,6.2,Yes,16.2,5.6,46.9,640000
+DDoS,Medium,Financial,8.5,Yes,4.9,8.1,74.0,400000
+Ransomware,Low,Individual,3.9,Yes,14.9,6.5,21.4,250000
+SQL Injection,High,Corporate,7.9,Yes,12.5,7.1,32.3,850000
+Phishing,Medium,Government,5.8,Yes,13.4,7.4,28.1,380000
+Malware,Low,Healthcare,4.9,Yes,15.8,5.1,41.5,560000
+DDoS,High,Individual,9.3,Yes,3.1,8.7,82.5,500000
+Ransomware,Medium,Corporate,7.2,Yes,15.2,6.4,43.6,720000
+SQL Injection,Medium,Financial,6.5,Yes,17.9,4.9,20.3,300000
+Phishing,High,Healthcare,8.0,Yes,11.1,7.4,38.5,900000
+Malware,Medium,Individual,5.6,Yes,19.1,5.5,51.4,740000
+DDoS,Medium,Government,8.8,Yes,5.5,8.3,77.2,420000
+Ransomware,Low,Financial,3.8,No,16.1,6.1,24.9,280000
+SQL Injection,High,Individual,7.4,Yes,14.2,7.2,31.9,880000
+Phishing,Medium,Financial,5.5,Yes,14.7,7.3,29.4,400000
+Malware,Medium,Corporate,6.1,Yes,17.6,5.4,49.2,680000
+DDoS,High,Healthcare,9.1,Yes,4.3,8.4,85.5,480000
+Ransomware,Medium,Healthcare,6.8,Yes,16.8,6.2,47.1,700000
+SQL Injection,Medium,Individual,4.3,Yes,18.1,4.8,16.5,260000
+Phishing,Medium,Conglomerate,4,Yes,11.1,7.4,25.8,380000
+Malware,High,Manufacturing,8,Yes,25.3,6.1,58.2,1250000
+DDoS,Critical,Healthcare,10,Yes,3.5,8.9,85.1,480000
+Ransomware,Medium,Banking,6,Yes,15.9,7.1,42.2,760000
+SQL Injection,Low,Education,3,Yes,29.8,5.3,14.5,220000
+Phishing,High,Insurance,7,Yes,10.1,7.8,29.4,880000
+Malware,Medium,Energy,6,Yes,21.2,5.5,54.8,1260000
+DDoS,Critical,Transportation,9,Yes,2.8,9.4,82.7,470000
+Ransomware,High,Real Estate,8,Yes,14.2,6.5,49.1,780000
+SQL Injection,Medium,Non-profit,4,Yes,27.1,5.1,16.6,240000
+Phishing,Low,Media,3,Yes,13.1,7.3,22.9,320000
+Malware,Critical,Utilities,9,Yes,25.5,5.2,62.1,1300000
+Phishing,Medium,Corporate,5,Yes,12.1,7.0,25.4,277000
+Malware,Low,Government,7.5,No,25.3,5.0,50.6,1120000
+DDoS,Critical,Financial,9.2,Yes,4.8,8.8,83.9,4850000
+Ransomware,High,Healthcare,8.1,Yes,16.6,6.7,51.9,780000
+SQL Injection,Medium,Individual,4.5,No,29.1,5.2,18.9,255000
+Phishing,Medium,Government,7.3,Yes,20.7,7.4,41.5,820000
+Phishing,High,Individual,8.0,Yes,12.9,7.9,34.8,920000
+Malware,Medium,Corporate,6.8,Yes,22.5,5.8,54.9,1220000
+DDoS,Critical,Healthcare,9.3,Yes,3.8,9.1,85.2,4900000
+Ransomware,Medium,Financial,7.1,Yes,15.8,6.4,47.1,750000
+SQL Injection,Low,Government,4.0,Yes,29.5,4.4,16.2,220000
+Phishing,High,Government,7.7,Yes,11.3,7.5,33.1,890000
+Malware,Medium,Healthcare,6.2,Yes,20.1,5.7,52.2,1160000
+DDoS,Critical,Government,9.5,Yes,4.4,9.3,86.8,5000000
+Ransomware,Medium,Individual,6.9,Yes,16.8,6.5,45.8,720000
+SQL Injection,Low,Corporate,3.6,Yes,31.9,4.6,15.9,185000
+Phishing,Medium,Corporate,4.2,Yes,11.9,7.1,27.1,320000
+Ransomware,Medium,Healthcare,6.9,Yes,16.1,6.8,48.2,730000
+SQL Injection,Medium,Individual,4.5,No,29.8,5.1,18.3,240000
+Phishing,High,Corporate,8.5,Yes,10.3,7.7,34.7,930000
+Malware,Medium,Government,6.8,Yes,22.1,5.9,58.9,1285000
+DDoS,Critical,Financial,9.3,Yes,4.8,9.1,84.3,460000
+Ransomware,High,Healthcare,8.8,Yes,14.5,7.0,51.5,800000
+SQL Injection,Low,Individual,3.8,No,31.5,4.4,14.9,220000
+Phishing,Low,Corporate,2.7,Yes,13.1,7.4,23.2,300000
+Malware,Critical,Government,9.5,Yes,26.1,5.6,64.1,1430000
+DDoS,High,Financial,8.9,Yes,6.9,8.4,81.2,4900000
+Ransomware,Medium,Healthcare,6.8,Yes,17.2,6.5,46.6,720000
+SQL Injection,Medium,Individual,4.9,No,29.2,5.2,19.2,250000
+Phishing,High,Corporate,7.9,Yes,11.1,7.8,32.5,920000
+Malware,Medium,Government,6.9,Yes,23.9,5.8,59.3,1325000
+DDoS,Critical,Financial,9.1,Yes,5.1,9.6,87.9,5100000
